@@ -17,7 +17,7 @@ Incluye un menú principal, reglas del juego, sonidos personalizados y marcador 
 ![Normas](./Normas-preview.png)
 
 ### 🎮 Juego en acción
-![Juego en marcha](./Juego-preview.png)
+![Juego en marcha](./Juego-preview.PNG)
 
 ---
 
